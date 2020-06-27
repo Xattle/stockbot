@@ -1,0 +1,8 @@
+#Enter your Alpaca info below, no quotes or spaces. Rename this file as config and run it every time
+#you use the bot.
+#You can also copy it to the end of your .bash_profile, .bashrc, or where you need it on startup.
+#Windows uses setx ENV_VAR_NAME "VALUE" according to Alpaca Docs.
+export APCA_API_BASE_URL=
+export APCA_API_KEY_ID=
+export APCA_API_SECRET_KEY=
+
